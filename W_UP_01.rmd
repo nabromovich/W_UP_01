@@ -68,4 +68,4 @@ We see the probability of getting the result we found assuming the null hypothes
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 In summary, we sought to determine if there was a difference in the average number of push ups that skill players and line players can do in 2 mintues. 
-The p-value indicated we reject the null hypothesis, and conclude that Georgetown line players do, on average, fever push ups in 2 minutes than skilled players. 
+The p-value indicated we reject the null hypothesis, and conclude that Georgetown line players do, on average, fewer push up in two minutes than the skilled players. 
