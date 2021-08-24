@@ -47,7 +47,7 @@ boxplot(pushups~position,data=mydata)
   
 It appears that the skill players do more push ups in 2 minutes than the line players can.  
 
-### Numerical Descriptive Results
+### Numerical Descriptive Results  
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 ```{r}
